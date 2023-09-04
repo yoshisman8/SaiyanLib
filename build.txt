@@ -1,0 +1,3 @@
+displayName = Saiyan Lib - The DBZ Code Library
+author = Vyklade
+version = 0.1
